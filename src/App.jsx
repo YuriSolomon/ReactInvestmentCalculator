@@ -1,11 +1,11 @@
-import Header from "./components/Header"
+import Header from "./components/Header";
+import Inputs from "./components/Inputs";
 
 function App() {
   return (
     <div>
       <Header />
-
-      ~input fields~
+      <Inputs />
 
       ~investment table~
     </div>
